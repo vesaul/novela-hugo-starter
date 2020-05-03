@@ -3,6 +3,8 @@ languageCode: "en-us"
 title: "Hugo Novela"
 pygmentsstyle: 'monokai'
 
+menu: ["main", "footer"]
+
 # Theme settings
 theme: novela
 paginate: 6
