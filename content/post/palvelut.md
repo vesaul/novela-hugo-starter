@@ -2,7 +2,7 @@
 authors = []
 date = 2020-05-26T21:00:00Z
 draft = true
-excerpt = ""
+excerpt = "Peruspaketti 3kk  Alkukartoitus  Kuntotestaus, lepo VO2max, lihaskunto, liikkuvuus. 2 kpl (1projektin alussa ja 1 projektin lopussa)  12 PT-tapaamista (50min)  Kuntosaliohjelman  Kotitreeniohjelman  Harjoitussuunnitelman  Ruoka-analyysin  Kehonkoostumusmittauksen 4kpl (alkumittaus, 2 välimittausta, loppumittaus)  Puhelin- ja sähköpostituki koko valmennuksen ajan"
 hero = "/images/Pienryhmä.jpg"
 timeToRead = 0
 title = "Palvelut"
