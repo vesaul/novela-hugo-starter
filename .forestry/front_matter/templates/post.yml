@@ -42,4 +42,5 @@ fields:
   label: Authors
 pages:
 - content/post/palvelut.md
+- content/post/tietoja.md
 - content/post/yrityksille.md
