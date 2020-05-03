@@ -7,9 +7,7 @@ timeToRead = 0
 title = "Yrityksille"
 
 +++
-## Lisää potkua arkeen?
-
-### Pirteämpiä ja tehokkaampia työpäiviä!
+### Lisää potkua arkeen? Pirteämpiä ja tehokkaampia työpäiviä!
 
 **HINNASTO:**
 
