@@ -7,7 +7,6 @@ sections:
 - type: document
   path: content/_services.md
   label: Services
-  match: "**/*"
 - type: heading
   label: Content
 - type: document
