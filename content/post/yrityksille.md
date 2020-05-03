@@ -13,7 +13,9 @@ title = "Yrityksille"
 
 Ohjattu ryhmäliikuntatunti työpaikan tiloissa tai pihalla **79€/h** alv. 0%
 
-Ohjattu ryhmäliikuntatunti järjestämissämme tiloissa **89€/h** alv. 0%
+Ohjattu ryhmäliikuntatunti järjestä
+
+missämme tiloissa **89€/h** alv. 0%
 
 Ohjattu kovatehoinen pikatreeni HIIT (30min) työpaikan tiloissa **69€** alv. 0%
 
