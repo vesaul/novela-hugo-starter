@@ -1,8 +1,8 @@
 +++
 authors = []
-date = ""
+date = 2020-04-30T21:00:00Z
 draft = true
-excerpt = ""
+excerpt = "Haluaisitko lisää tunteja vuorokauteen? Väsyttääkö? Haluaisitko jaksaa enemmän? Elämäntapamuutos mielessä? Oletko tyytyväinen kehoosi? Onko sinulla ylipainoa? Aina nälkä tai ähky? Haluaisitko löytää treeni-innon? "
 hero = "/images/omakuva.jpg"
 timeToRead = 0
 title = "Tietoja"
