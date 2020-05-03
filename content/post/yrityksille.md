@@ -3,7 +3,7 @@ authors = []
 date = 2020-05-24T21:00:00Z
 excerpt = "Lisää potkua arkeen? Pirteämpiä ja tehokkaampia työpäiviä!"
 hero = "/images/tyopaikka.png"
-timeToRead = 0
+timeToRead = 1
 title = "Yrityksille"
 
 +++
@@ -13,9 +13,7 @@ title = "Yrityksille"
 
 Ohjattu ryhmäliikuntatunti työpaikan tiloissa tai pihalla **79€/h** alv. 0%
 
-Ohjattu ryhmäliikuntatunti järjestä
-
-missämme tiloissa **89€/h** alv. 0%
+Ohjattu ryhmäliikuntatunti järjestämissämme tiloissa **89€/h** alv. 0%
 
 Ohjattu kovatehoinen pikatreeni HIIT (30min) työpaikan tiloissa **69€** alv. 0%
 
