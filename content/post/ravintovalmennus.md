@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-04-29T21:00:00Z
-draft = true
 excerpt = ""
 hero = "/images/lautasmalli.jpg"
 timeToRead = 0
