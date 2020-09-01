@@ -3,7 +3,7 @@ authors = []
 date = 2020-04-29T21:00:00Z
 excerpt = "RAVINTOVALMENNUS  Palvelu sisältää ..."
 hero = "/images/lautasmalli.jpg"
-timeToRead = 0
+timeToRead = 1
 title = "Ravintovalmennus"
 
 +++
